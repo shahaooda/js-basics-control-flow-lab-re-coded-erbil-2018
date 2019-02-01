@@ -36,7 +36,3 @@ switch(tip) {
 }
 return res
 }
-
-Message Input
-
-Message Fatin M. Putrus
